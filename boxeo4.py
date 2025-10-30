@@ -7,7 +7,7 @@ import os
 # 🔑 Inicializar cliente OpenAI
 # ==============================
 
-client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+client = OpenAI(api_key="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")
 # ==============================
 # 💬 System Prompt
 # ==============================
